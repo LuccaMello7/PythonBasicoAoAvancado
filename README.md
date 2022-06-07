@@ -1,9 +1,10 @@
 # PythonBasicoAoAvancado
 
-<img align="right" width="100%" alt="GIF" src="https://giphy.com/embed/coxQHKASG60HrHtvkt"  />
+<img align="right" width="60%" alt="GIF" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 
 
-📃 This noteboos were written while I was taking the following course [Python 3 Course From Zero to Hero - Luiz Otávio Miranda](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+
+📃 This notebooks were written while I was taking the following course [Python 3 Course From Zero to Hero - Luiz Otávio Miranda](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
 This course is probably one of the best resources for those who wants to learn Python and how to start to coding well.
 
